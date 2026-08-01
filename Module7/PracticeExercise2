@@ -1,0 +1,15 @@
+// import java.util.Scanner;
+//  public class PracticeExercise2 {
+//     public static void main(String[] args) {
+//         Scanner sc = new Scanner(System.in);
+
+//         System.out.print("Enter temperature: ");
+//         double temperature = sc.nextDouble();
+//         String result = 
+//         (temperature <=15) ? "Cold" 
+//         : (temperature <= 30) ? "Warm" 
+//         : "Hot";
+//         System.out.println("The weather is " + result);
+//     }
+//  }
+ 
